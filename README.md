@@ -5,5 +5,5 @@ Ultrarogue is a game where you have to survive endless procedurally generated wa
 Current web version: v8
 
 The game has exceeded the github pages free file size limit and to play the latest version you must download it from this google drive:
-Current downloadable version: v9
-File size: 26mb
+<br>Current downloadable version: v9
+<br>File size: 26mb
